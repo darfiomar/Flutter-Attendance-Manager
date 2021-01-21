@@ -1,6 +1,10 @@
+# Minimal Attendance Manager (2020)
+
+Check AttendanceManager.pdf for more details.
+
 # NotesApp
 
-A new Flutter project.
+My first Flutter project.
 
 ## Getting Started
 
